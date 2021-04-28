@@ -252,11 +252,11 @@ h6, .ts-h6 {
 }
 
 .ts-font-color__primary {
-    color: #00ADD9;
+    color: #221ac9;
 }
 
 .ts-bg-primary {
-    background-color: #00ADD9;
+    background-color: #221ac9;
 }
 
 .ts-column-count-2 {
@@ -678,7 +678,7 @@ h6, .ts-h6 {
 -------------------------------------------*/
 
 a {
-    color: #00ADD9;
+    color: #221ac9;
     transition: .3s ease;
 }
 
@@ -780,7 +780,7 @@ p {
 .ts-has-talk-arrow:after {
     border-style: solid;
     border-width: .625rem .625rem 0 0;
-    border-color: #00ADD9 transparent transparent transparent;
+    border-color: #221ac9 transparent transparent transparent;
     bottom: -0.625rem;
     content: "";
     left: 1rem;
@@ -1115,14 +1115,14 @@ blockquote h6 {
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-    background-color: #00ADD9;
-    border-color: #00ADD9;
+    background-color: #221ac9;
+    border-color: #221ac9;
     box-shadow: none;
 }
 
 .btn-primary {
-    background-color: #00ADD9;
-    border-color: #00ADD9;
+    background-color: #221ac9;
+    border-color: #221ac9;
     color: #fff;
 }
 
@@ -1177,7 +1177,7 @@ blockquote h6 {
     animation-fill-mode: forwards;
     animation-duration: .4s;
     animation-timing-function: cubic-bezier(.6, .01, 0, 1);
-    background-color: #00ADD9;
+    background-color: #221ac9;
     bottom: 0;
     height: .125rem;
     margin: auto;
@@ -1354,7 +1354,7 @@ blockquote h6 {
 /* --Description */
 
 dl dt {
-    color: #00ADD9;
+    color: #221ac9;
 }
 
 dl dd {
@@ -1547,7 +1547,7 @@ form.ts-labels-inside-input .form-group label.focused,
 }
 
 .ts-item-header .icon .step {
-    background-color: #00ADD9;
+    background-color: #221ac9;
     top: 0;
     box-shadow: .125rem .1875rem .9375rem rgba(0, 0, 0, .15);
     border-radius: 50%;
@@ -1576,7 +1576,7 @@ form.ts-labels-inside-input .form-group label.focused,
 
 ul.ts-list-colored-bullets li:before {
     content: "•";
-    color: #00ADD9;
+    color: #221ac9;
     vertical-align: middle;
     font-size: 1.75rem;
     padding-right: .75rem;
@@ -1720,7 +1720,7 @@ body.loading-done #ts-hero.ts-animate-hero-items .ts-social-icons {
 }
 
 .nav-link:after {
-    border-top: .1875rem solid #00ADD9;
+    border-top: .1875rem solid #221ac9;
     content: "";
     height: .1875rem;
     position: absolute;
@@ -1813,7 +1813,7 @@ iframe div {
 }
 
 .progress .progress-bar {
-    background-color: #00ADD9;
+    background-color: #221ac9;
     bottom: 0;
     height: .1875rem;
     position: absolute;
@@ -1835,7 +1835,7 @@ iframe div {
 }
 
 .ts-promo-number figure {
-    color: #00ADD9;
+    color: #221ac9;
     font-weight: 400;
 }
 
@@ -1923,7 +1923,7 @@ select::-ms-expand {
 .nav-tabs .nav-link.active {
     color: #191919;
     background-color: transparent;
-    border-bottom: .1875rem solid #00ADD9;
+    border-bottom: .1875rem solid #221ac9;
     opacity: 1;
 }
 
@@ -1997,7 +1997,7 @@ D. Plugins Styles
 }
 
 .owl-carousel .owl-dots .owl-dot.active span {
-    background-color: #00ADD9;
+    background-color: #221ac9;
     opacity: 1;
 }
 
@@ -2331,12 +2331,12 @@ E. Template Specific Elements
 }
 
 .ts-time-line__horizontal .ts-time-line__item.ts-time-line__milestone .ts-box {
-    background-color: #00ADD9;
+    background-color: #221ac9;
     color: #fff;
 }
 
 .ts-time-line__horizontal .ts-time-line__item.ts-time-line__milestone .ts-box:after {
-    border-color: #00ADD9 transparent transparent transparent;
+    border-color: #221ac9 transparent transparent transparent;
 }
 
 .ts-time-line__horizontal .ts-time-line__item.ts-time-line__milestone h5 {
